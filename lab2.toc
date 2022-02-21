@@ -1,0 +1,12 @@
+\contentsline {chapter}{\numberline {1}DDL Scripts}{4}{}%
+\contentsline {section}{\numberline {1.1}Creating the tables}{4}{}%
+\contentsline {section}{\numberline {1.2}Populating data}{6}{}%
+\contentsline {section}{\numberline {1.3}Queries}{11}{}%
+\contentsline {subsection}{\numberline {1.3.1}Find the name of all published books.}{11}{}%
+\contentsline {subsection}{\numberline {1.3.2}Find the name of all books published before 2000.}{11}{}%
+\contentsline {subsection}{\numberline {1.3.3}Get the details of the books written by a particular author.}{11}{}%
+\contentsline {subsection}{\numberline {1.3.4}Find the name of all weekly publications. }{11}{}%
+\contentsline {subsection}{\numberline {1.3.5}Find the name of pre-ordered books.}{11}{}%
+\contentsline {subsection}{\numberline {1.3.6}Get the details of all publications with the name starting with an 'A'.}{11}{}%
+\contentsline {subsection}{\numberline {1.3.7}Find all the orders for a particular book. The result must be sorted based on the order date. }{11}{}%
+\contentsline {chapter}{\numberline {2}Pattern Matching}{12}{}%
