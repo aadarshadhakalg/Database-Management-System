@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1645445355 "lab2.tex" "lab2.pdf" "lab2" 1645445356
+["pdflatex"] 1645505029 "lab2.tex" "lab2.pdf" "lab2" 1645505030
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1640600964 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1640600964 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1640600964 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -108,10 +108,10 @@
   "creating_tables.sql" 1645370106 2614 46a12700d47aec1383631075d4a4b765 ""
   "erdiagram.png" 1645369245 70637 368836c48dfa2ea63fc2d49430e3c9a6 ""
   "kulogo.jpg" 1645359392 76340 1beb40ca73d06b3028aacb291e0ceb15 ""
-  "lab2.aux" 1645445356 5122 3e37345ca6b521a497088f748a13fbaa "pdflatex"
-  "lab2.lof" 1645445356 121 1e169677faceb87da4f357f75fa4200e "pdflatex"
-  "lab2.tex" 1645445352 5414 8cc5753146aa5aef796c233a408acaf8 ""
-  "lab2.toc" 1645445356 1620 a3c951c391592bedaf2970c061cda820 "pdflatex"
+  "lab2.aux" 1645505030 5122 07816f689ef44e1085548d964a859a75 "pdflatex"
+  "lab2.lof" 1645505030 121 1e169677faceb87da4f357f75fa4200e "pdflatex"
+  "lab2.tex" 1645505028 5406 190401a7353d36247eaaf49c76e197e9 ""
+  "lab2.toc" 1645505030 1620 a3c951c391592bedaf2970c061cda820 "pdflatex"
   "lab2outputs/1.tex" 1645436482 568 630574300b1fec9cbe811aef1b7f8e00 ""
   "lab2outputs/2.tex" 1645436867 111 4f05bb8894b1b7501f2dff66928d1e10 ""
   "lab2outputs/3.tex" 1645436873 647 0a37a5e8dcb0511861a1628fd2e67ddf ""
