@@ -159,7 +159,7 @@ Retrives tuples from Publishments table where title starts with letter 'A'.
     SELECT * FROM  orders o INNER JOIN Publishments p ON o.publishment_id = p.id INNER JOIN Book b ON p.id = b.publishment_id ORDER BY order_date DESC
 \end{lstlisting}
 \vspace{0.5cm}
-\textbf{Relational Algebra :} \[ \tau_{order\_date\ \downarrow} ( \rho_p(Publishments) \bowtie_{o.publishment\_id = p.id} \rho_o(orders) \bowtie_{p.id = b.publishment\_id} \rho_b(Book) )  \]
+\textbf{Relational Algebra :} \[ \tau_{order\_date\ \downarrow} ( \rho_p(Publishments) \bowtie_{o.publishment\_id = p.id} \rho_o(orders)\]\[ \bowtie_{p.id = b.publishment\_id} \rho_b(Book) )  \]
 \paragraph{Description: }
 Retrives tuples from INNER JOIN of orders table, Publishments table and Book table and are ordered descendingly by order\_date.
 
